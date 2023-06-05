@@ -1,0 +1,15 @@
+/* Header CSS */
+
+.header {
+    background-color: #4286f4;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .title {
+    margin: 0;
+    color: #fff;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  

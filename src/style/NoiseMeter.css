@@ -1,0 +1,25 @@
+/* Noise Meter CSS */
+
+.noise-meter {
+    position: relative;
+    width: 20px;
+    height: 200px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  
+  .noise-bar {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #4286f4;
+    transition: height 0.3s ease;
+  }
+  
+  .noise-level {
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: bold;
+  }
+  

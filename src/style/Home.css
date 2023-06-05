@@ -1,0 +1,22 @@
+/* Home Page Styles */
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .noise-meter {
+    margin-bottom: 40px;
+  }
+  
+  .chart {
+    height: 300px;
+  }
+  
